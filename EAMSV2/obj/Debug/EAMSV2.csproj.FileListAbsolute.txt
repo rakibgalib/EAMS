@@ -1,0 +1,10 @@
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\bin\Debug\EAMSV2.exe.config
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\bin\Debug\EAMSV2.exe
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\bin\Debug\EAMSV2.pdb
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\obj\Debug\EAMSV2.csprojResolveAssemblyReference.cache
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\obj\Debug\EAMSV2.Properties.Resources.resources
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\obj\Debug\EAMSV2.csproj.GenerateResource.Cache
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\obj\Debug\EAMSV2.exe
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\obj\Debug\EAMSV2.pdb
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\obj\Debug\EAMSV2.Form1.resources
+c:\users\rakib\documents\visual studio 2015\Projects\EAMSV2\EAMSV2\obj\Debug\EmployeeAttandanceManagement.View.EmployeeEntry.resources
